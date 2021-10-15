@@ -1,3 +1,6 @@
+In Organic Chemistry Syntheis is process of generating molecule with the help of chemical reactants.
+
+
 Retrosynthesis Reaction Prediction with SMILES Augmentation
 This repo details experiments on predicting retrosynthesis reactants from products using neural machine translation and SMILES based data augmentation.
 
